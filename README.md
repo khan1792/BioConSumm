@@ -21,7 +21,7 @@ list_of_paper_titles.csv is a list of titles of the papers we used for text summ
    Duplicates: Discard Duplicates
    Text translation: No translation
 ![image](https://github.com/user-attachments/assets/e7021e89-d0e3-4cad-b6e5-9556e26a07a4)
-9. Select multiple records, right-click, and choose 'Find Full Text' → 'Find Full Text.' EndNote will automatically download the PDF files. The maximum number of papers you can download per query through EndNote is 100 or 200. Please repeat this step if not all papers have been queried.
+9. Select multiple records, right-click, and choose 'Find Full Text' → 'Find Full Text.' EndNote will automatically download the PDF files. The maximum number of papers you can download per query through EndNote is 100 or 200. Please repeat this step until all papers have been queried. Please note that only papers from database/journals subscribed by your institution or your personal account can be downloaded.
 ![image](https://github.com/user-attachments/assets/10226b1b-fe04-4886-bd53-f51fe48a0e43)
 
  
